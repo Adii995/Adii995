@@ -69,6 +69,51 @@ Building practical applications with Java, SQL, and backend technologies.
 
 ---
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Adii995">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Adii995&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Adii995">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adii995&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Adii995">
+  <img src="https://streak-stats.demolab.com/?user=Adii995&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## ⭐ Repository Highlights
+
+<div align="center">
+
+<a href="https://github.com/Adii995/AnnSevak--Food-Waste-Reduction-Platform-">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Adii995&repo=AnnSevak--Food-Waste-Reduction-Platform-&theme=tokyonight&hide_border=true" alt="AnnSevak repository card"/>
+</a>
+
+<a href="https://github.com/Adii995?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-All%20Repositories-1f6feb?style=for-the-badge&logo=github" alt="All repositories"/>
+</a>
+
+</div>
+
+---
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
@@ -141,66 +186,6 @@ An educational game concept for learning 2D and 3D shapes.
 </td>
 </tr>
 </table>
-
----
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Adii995">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Adii995&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/Adii995">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adii995&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/Adii995">
-  <img src="https://streak-stats.demolab.com/?user=Adii995&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <a href="https://github.com/Adii995">
-    <img
-      src="https://YOUR-OWN-DOMAIN.vercel.app/graph?username=Adii995&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-</div>
-
----
-
-## ⭐ Repository Highlights
-
-<div align="center">
-
-<a href="https://github.com/Adii995/AnnSevak--Food-Waste-Reduction-Platform-">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Adii995&repo=AnnSevak--Food-Waste-Reduction-Platform-&theme=tokyonight&hide_border=true" alt="AnnSevak repository card"/>
-</a>
-
-<a href="https://github.com/Adii995?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-1f6feb?style=for-the-badge&logo=github" alt="All repositories"/>
-</a>
-
-</div>
 
 ---
 
