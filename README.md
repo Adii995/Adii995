@@ -60,7 +60,7 @@ Building practical applications with Java, SQL, and backend technologies.
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,hibernate,git,github,postman,intellij,eclipse,vscode&theme=dark" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,hibernate,git,github,postman,idea,eclipse,vscode&theme=dark" alt="Technology stack"/>
 </p>
 
 **Core skills:** Java · OOP · DSA · SQL · MySQL · JDBC · Hibernate · HTML · CSS
