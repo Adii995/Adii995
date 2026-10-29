@@ -60,7 +60,7 @@ Building practical applications with Java, SQL, and backend technologies.
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,hibernate,git,github,postman,eclipse,vscode&theme=dark" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,hibernate,git,github,postman,intellij,eclipse,vscode&theme=dark" alt="Technology stack"/>
 </p>
 
 **Core skills:** Java · OOP · DSA · SQL · MySQL · JDBC · Hibernate · HTML · CSS
@@ -177,11 +177,13 @@ An educational game concept for learning 2D and 3D shapes.
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-
-<a href="https://github.com/Adii995">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adii995&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
-</a>
-
+  <a href="https://github.com/Adii995">
+    <img
+      src="https://YOUR-OWN-DOMAIN.vercel.app/graph?username=Adii995&theme=tokyo-night&hide_border=true&area=true"
+      alt="GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
 </div>
 
 ---
