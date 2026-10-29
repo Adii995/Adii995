@@ -71,6 +71,17 @@ Building practical applications with Java, SQL, and backend technologies.
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Adii995">
+  <img src="https://streak-stats.demolab.com/?user=Adii995&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -81,18 +92,6 @@ Building practical applications with Java, SQL, and backend technologies.
 
 <a href="https://github.com/Adii995">
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adii995&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/Adii995">
-  <img src="https://streak-stats.demolab.com/?user=Adii995&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </a>
 
 </div>
