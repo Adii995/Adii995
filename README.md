@@ -1,24 +1,213 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A passionate Java Backend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adii995&label=Profile%20views&color=0e75b6&style=flat" alt="adii995" /> </p>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adii995" alt="adii995" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [Food Waste Reduction Platform](https://github.com/Adii995/AnnSevak--Food-Waste-Reduction-Platform-)
+# Hi 👋, I'm Aditya Kumar
 
-- 📫 How to reach me **adityakumarak9956@gmail.com**
+### Java Backend Developer | B.Tech CSE | India 🇮🇳
 
-<h3 align="left">Connect with me:</h3>
+Building practical applications with Java, SQL, and backend technologies.
+
+<a href="https://github.com/Adii995">
+  <img src="https://komarev.com/ghpvc/?username=Adii995&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/Adii995?tab=followers">
+  <img src="https://img.shields.io/github/followers/Adii995?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/Adii995?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**.
+- ☕ Focused on **Java Backend Development**.
+- 🌱 Currently learning **Spring Boot** and backend application development.
+- 💻 Practicing **Data Structures & Algorithms** and SQL.
+- 🚀 Building **AnnSevak**, a food waste reduction platform.
+- 🎯 Interested in Java Developer Intern and Software Developer opportunities.
+- 📫 Email: **[adityakumarak9956@gmail.com](mailto:adityakumarak9956@gmail.com)**
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-b01a83337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-kumar-b01a83337" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-b01a83337/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Adii995" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:adityakumarak9956@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii995&show_icons=true&locale=en&layout=compact" alt="adii995" /></p>
+<!-- ===================== TECH STACK ===================== -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adii995&show_icons=true&locale=en" alt="adii995" /></p>
+## 🛠️ Languages, Frameworks & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adii995&" alt="adii995" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,hibernate,git,github,postman,eclipse,vscode&theme=dark" alt="Technology stack"/>
+</p>
+
+**Core skills:** Java · OOP · DSA · SQL · MySQL · JDBC · Hibernate · HTML · CSS
+
+**Currently learning:** Spring Boot and REST APIs
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🍲 AnnSevak
+
+**Food Waste Reduction Platform**
+
+A platform concept focused on connecting food donors with organizations that can redistribute surplus food responsibly.
+
+- Food donor and NGO workflows
+- Surplus food listing and pickup requests
+- Food rescue and waste reduction
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Adii995/AnnSevak--Food-Waste-Reduction-Platform-)
+
+</td>
+<td width="50%">
+
+### 🏦 Banking / ATM Simulator
+
+**Java Desktop Application**
+
+A banking application built to practice Java, database connectivity, and CRUD operations.
+
+- Login and account operations
+- Deposit and withdrawal
+- Balance inquiry and mini statement
+- JDBC and MySQL integration
+
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github)](https://github.com/Adii995?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 Notes Manager
+
+**Java Web Application**
+
+A notes management project using Java web technologies and database persistence.
+
+- Java, JSP and Servlets
+- Hibernate and MySQL
+- Save and manage notes
+
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github)](https://github.com/Adii995?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 🔷 Shape Based Game
+
+**Java OOP Project**
+
+An educational game concept for learning 2D and 3D shapes.
+
+- Classes and objects
+- Inheritance and polymorphism
+- Interfaces and method overloading
+- Method overriding
+
+[![GitHub](https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github)](https://github.com/Adii995?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Adii995">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Adii995&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Adii995">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adii995&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/Adii995">
+  <img src="https://streak-stats.demolab.com/?user=Adii995&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/Adii995">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adii995&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+</a>
+
+</div>
+
+---
+
+## ⭐ Repository Highlights
+
+<div align="center">
+
+<a href="https://github.com/Adii995/AnnSevak--Food-Waste-Reduction-Platform-">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Adii995&repo=AnnSevak--Food-Waste-Reduction-Platform-&theme=tokyonight&hide_border=true" alt="AnnSevak repository card"/>
+</a>
+
+<a href="https://github.com/Adii995?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-All%20Repositories-1f6feb?style=for-the-badge&logo=github" alt="All repositories"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat.
+
+*Thanks for visiting my profile! Let's connect and build something meaningful.* 🤝
+
+</div>
